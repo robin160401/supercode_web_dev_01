@@ -1,0 +1,22 @@
+.pic1 img{
+    width: 400px;
+}
+.pic2 img {
+    width: 50%;
+}
+
+.pic3 img {
+    width: 20em;
+}
+
+.pic4 img{
+    width: 40rem;
+}
+
+.pic5 img{
+    width: 35vw;
+}
+
+.pic6 img {
+    width: 75vh;
+}
