@@ -1,0 +1,23 @@
+html {
+    overflow: hidden;
+}
+
+.image {
+    background-image: url(../img/mountainlake.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
+
+.content {
+    text-align: center;
+    background-color: rgba(119, 136, 153, 0.5);;
+    align-items: center;
+    color: white;
+    border-radius: 2em;
+    padding: 2em;
+}
